@@ -1,0 +1,10 @@
+As Earth's temperature plummets, a committee is formed to investigate and find a solution. Each player roleplays a committee member leading a specialized team (science, military, etc.) who reports to the committee biweekly. What happened to the sun? Can it be fixed (or even endured)? Evidence can appear contradictory. Everyone wants to save the world, but also wants to be its hero.
+
+For eight meetings players take turns presenting brief reports that try to play up their team and themselves, often at the expense of other members. Die roll determines report topic:
+
+1    Breakthrough for your group. (+1)
+2    Breakthrough for another group (your choice). (+1 for them)
+3-5    Find evidence that it's natural, humans, or aliens respectively. Unconvincing arguments by vote: -1.
+6    There’s a problem. Roll again. On a 1-2 you fix it (+1). On a 6 it becomes a disaster (-1). If unresolved, other players can help in lieu of their regular turns; they resolve it with a 1-3 (+1) or make it worse with a 6 (-1).
+
+A player with 3+ at report time ends the game by describing how the world got saved. If meetings run out, it's over.

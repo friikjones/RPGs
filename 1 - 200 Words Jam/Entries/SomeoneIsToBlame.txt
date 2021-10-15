@@ -1,0 +1,15 @@
+One GM, 2+ players. You are stranded in a dark place. One of you will not escape. You need to leave. Blindfolds optional.
+
+GM:
+Create and describe a fitting scenario.
+Write down a list of faults that brought the characters where they are, and randomly hand them out mixed with blank papers.
+Create 5 problematic situations (Complications) to be solved by the players. Each Complication, stemming from a Fault, is assigned a Difficulty Level (DL) unknown to the players and determining the amount of effort required to solve it.
+Failing to solve 3+ Complications will result in an unsuccessful escape and untimely deaths.
+
+GAMEPLAY:
+Complications are introduced one at a time.
+Since they have useful details, the player with the associated Fault can reveal it decreasing the DL by 1.
+Any number of characters may then volunteer to solve the Complication. If they equal or exceed DL they succeed.
+The GM narrates whether the complication is solved and its consequences, then gives permanent Maluses to each volunteer. Maluses can be any form of impediment (stress, injury, fatigue...).
+
+After the final complication is solved, characters will have to vote for one of them to be left behind in their escape.

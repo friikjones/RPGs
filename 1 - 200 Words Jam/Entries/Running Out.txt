@@ -1,0 +1,10 @@
+﻿The sun is dead, time is running out. Resources are dwindling, but we still do what we can to live until we've nothing left.
+
+
+At the start of the game, add 5d6 for each person playing and define your society, whether it's the remaining population of the capital or a small family of scavengers. 
+
+
+Begin with one player, chosen however you care, presenting a problem the community must overcome. Then, discuss what your society can do to prevent it. For each resource expend or plan put into place, remove a d6 from the pool. When you're finished planning, roll all dice you removed; if the total exceeds 8, you overcome the complication. If not, you may continue to plan and take d6, but these post hoc plans are too little, too late; subtract 2 from each additional die rolled. You may give up at any point after the problem is presented, at which point your community collapses. Otherwise, if you overcome the obstacle the next player presents a problem and play continues.
+
+
+Eventually, though, your resources will be insufficient. The sun is dead, time is running out. Life is what you make of it. Death is when you choose.

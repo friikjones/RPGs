@@ -1,0 +1,74 @@
+# Welcome  to your next campaign binder!
+
+## Overview on Creating
+
+GMBinder uses markdown for its primary content. To learn about Markdown and its supporting syntax, [check this out](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+In addition, GM Binder allows for HTML content within your document. However, "User Beware" warnings apply. Especially now in this early stage. Using HTML for things like images and links is pretty safe. However, structured HTML like divs, tables, etc, may have undesired consequences.
+
+## GMBinder Specific
+### Page Breaks
+* Using `\pagebreak` will result in a page break. Or press `Ctrl+;` or `Cnd+;` to insert this.
+* Using `\pagebreakNUm` will result in a page break with page number. Or press `Ctrl+'` or `Cnd+'` to insert this.
+
+### Links
+* Internal Links - Press Ctrl+Space to get a list of all of your document's headers. Press tab on one to insert the link into your document. ie: [Welcome to your next campaign binder!](#welcome-to-your-next-campaign-binder)
+* External Links - Using the standard markdown link syntax with an external URL will result in a link that opens a new tab. ie: [Staff of Darkening](https://www.dndbeyond.com/magic-items/29957-staff-of-anti-thunder-and-darkening)
+* If you would like the actual URL to show in your external link, a simple solution is to simply wrap it with < and >. ie: <https://www.gmbinder.com>
+
+### Table of Contents
+In the menu above, you'll see a Table of Contents for your document.
+
+### Images
+There are a couple ways you can place images. If you would like something positioned like you see on this page, you will need to provide the appropriate styles to do so. For example:
+
+`<img src='https://www.gmbinder.com/assets/img/books.jpg' style='position:absolute;bottom:45px;right:30px;width:380px; mix-blend-mode:multiply;' />`
+
+If you would like to place an image in-line within your content, simply providing an image tag with an external URL will be sufficient. Do be aware that your images should be sized appropriately for the content.
+
+\columnbreak
+
+### Wrapping to Column Two
+Sometimes you want your content in column 1 to be cut short and continue on to column 2. The simplest way to accomplish this is to use:
+
+`\columnbreak`
+___
+You can also press `Ctrl+.` or `Cnd+.` to insert this.
+
+### Footnotes
+This is an example of using html and built in styles to get a desired output.
+
+`<div class='footnote'>Part 1 | Introduction</div>`
+
+<img src='https://www.gmbinder.com/assets/img/books.jpg' style='position:absolute;bottom:45px;right:30px;width:350px; mix-blend-mode:multiply;' />
+<div class='footnote'>Part 1 | Tutorial</div>
+
+## Basic Editor Shortcuts
+
+### Find and Replace
+* `Ctrl+F` or `Cmd+F` - Find
+* `Alt+Ctrl+F` or `Alt+Cmd+F` - Find & Replace
+
+### Editing
+* `Ctrl+Z` or `Cmd+Z` - Undo
+* `Ctrl+Shift+Z` or `Cmd+Shift+Z` - Redo
+* `Ctrl+D` or `Cmd+D` - Remove current line
+* `Ctrl+U` - Uppercase current selection
+* `Ctrl+Shift+U` - Lowercase current selection
+
+### Content Folding
+* `F2` - Fold / Unfold a block of content
+* `Ctrl+Cmd+Alt+0` Fold everything
+* `Shift+Cmd+Alt+0` UnFold everything
+
+### And Much More...
+* `Ctrl+Alt+H` or `Cmd+Alt+H` Shows all Editor Shortcuts
+
+
+\pagebreakNum
+
+
+# Ready. Set. Go!
+This is your playground. Feel free to remove this and the content above, or keep it around for a reference.
+
+<div class='footnote'>Part 2 | Your Introduction</div>

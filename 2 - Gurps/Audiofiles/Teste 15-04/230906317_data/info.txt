@@ -1,0 +1,7 @@
+Guild:		Rolando Filmes#567456525090553911
+Channel:	General#567456525640269827
+Requester:	The New Guy#1672
+Start time:	2019-04-15T21:22:34.597Z
+Tracks:
+	The New Guy#1672
+	Huge#7834

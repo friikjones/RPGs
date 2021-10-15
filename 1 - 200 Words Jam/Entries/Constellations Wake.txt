@@ -1,0 +1,37 @@
+A sun is dead. Journey to their resting place and seal it. Cross deserts, cloud nurseries, and crowded spiral cities. Fuel is your energy. Mass is your health. 
+
+Roll +/- is roll two six sided dice plus your Fuel above/below the previous roll by anyone. A draw means a cost. Spend Mass to reroll. If your start mass was >8 you risk becoming an evil black hole on death.
+
+
+Bright Actions. Roll+
+- Slingshot: Move yourself or a target one hex. 
+- Persuade: Make an NPC aligned to your quest.
+
+Dark Actions. Roll-
+- Observe: Ask GM three questions about target or hex ahead
+- Consume: Transfer one mass from target to you.
+
+
+
+Players and NPCs:
+
+Bright Giant: Fuel +3, Mass +12 
+- Heavyweight: Roll+ to draw attack or attention to yourself
+
+Red Giant: Fuel +1, Mass +7 
+- IronHeart: Ignore first damage that scene
+
+Golden Mean: Fuel+2 Mass +5 
+- Lifeholder: Roll- to ask question on distant hex
+
+White Dwarf: Fuel-2, Mass +5
+- Survivor: Roll- to avoid detection
+
+Pulsar: Fuel -1, Mass+6 
+-FastSpear: Roll+ to stun/blind two targets
+
+Nebulae: Fuel-3, Mass+3
+- Collapse: Change class and resurrect another player
+
+Black Hole (NPC only): Fuel-4, Mass+10
+- Horizon: Name target that cannot escape you.

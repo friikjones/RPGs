@@ -1,0 +1,15 @@
+This morning the sun darkened and the power went out as shadow covered the solar panels. The distress beacon got an immediate response and they will be here soon. The questions is, will you?
+
+Grab some D10s and create a character with the following:
+
+Everyone has 10 Stamina and 10 Stress, spend these for +1D on explorations with 2 at minimum. Select 3 skills that you get +1D on.
+
+To survive you need these resources: Life support, Engineering, and Defense. You can spend any resource to heal 1 stamina or stress, take one of each for upkeep, and spend for +1D. Start with 10 of each resource.
+
+Play follows a simple path. Every day each player can start 1 exploration. Then you play a scene the GM sets, using resources to overcome it.
+
+For every player, add up the following for difficulty of the exploration; +3 Easy, +5 Average, +8 Hard. Build, then roll a dice pool, take the highest number each, and add together.
+
+If you succeed, get 4 resources in any combination. Otherwise, spend an extra point of Stress and Stamina.
+
+At the end of each day spend upkeep and heal 1 Stamina and Stress.
